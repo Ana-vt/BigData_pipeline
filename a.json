@@ -1,0 +1,21 @@
+{
+	"firstName" : "Ana",
+	"lastName": "Velasco",
+	"age" : 23,
+	"address" : {
+		"streetAddress" : "1234 Street",
+		"city": "Chicago",
+		"state" : "Illinois",
+		"postal code" : "91234"
+	},
+	"phoneNumber" : [
+	{
+		"type" : "mobile",
+		"number" : "123-123-1234"
+	},
+	{
+		"type" : "home",
+		"number" : "987-654-3210"
+	}
+   ]
+}
